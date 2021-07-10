@@ -1,0 +1,27 @@
+
+name = "name"
+user = "user"
+password = "password"
+host = "host"
+port = "port"
+
+users = "users"
+study_groups = "study_groups"
+courses = "courses"
+faces = "faces"
+statuses = "statuses"
+grades = "grades"
+
+id_user = "id_user"
+middle_name = "middle_name"
+surname = "surname"
+semester = "semester"
+id_group = "id_group"
+id_course = "id_course"
+id_face = "id_face"
+face = "face"
+id_status = "id_status"
+type = "type"
+id_grade = "id_grade"
+
+group = "group"
