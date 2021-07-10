@@ -1,0 +1,53 @@
+* {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+}
+
+canvas {
+    position: absolute;
+}
+
+svg {
+    position: absolute;
+}
+
+text {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+
+    font-family:  sans-serif;
+
+    font-style: bold;
+    font-size: 20px;
+    text-anchor: middle;
+    text-shadow: 1px 1px 2px black, 0 0 1em white;
+}
+
+.title {
+}
+
+.mini {
+    width: 720 px;
+    height: 560 px;
+}
+
+.all {
+    width: 90%;
+    height: 90%;
+}
